@@ -1,0 +1,19 @@
+{
+  "name": "collections",
+  "version": "1.0.0",
+  "description": "A short program to demonstrate the concept of collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsmithh/collections.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsmithh/collections/issues"
+  },
+  "homepage": "https://github.com/bsmithh/collections#readme"
+}
