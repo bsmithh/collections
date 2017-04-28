@@ -1,6 +1,6 @@
 // define functions
 var month = ["January", "February", "March", "April", "May", "June", "July", 
-				"August","September", "October", "November", "December"];
+			"August","September", "October", "November", "December"];
  var getDaysInMonth = function(month) {
 	if ( month == "January" || month == "March" || month == "May" || month == "July" || month == "August" || month == "October" || month =="December") {
 		return 31;

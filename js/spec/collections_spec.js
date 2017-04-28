@@ -5,7 +5,7 @@ describe("A program to demonstrate the concept of collections", () => {
 
 	it("can report if a given month, during a common year, has how many number of days", () => {
 		let month = ["January", "February", "March", "April", "May", "June", "July", 
-				"August","September", "October", "November", "December"];
+		"August","September", "October", "November", "December"];
 		var getDaysInMonth = require("../index");
 		expect(collections.getDaysInMonth("January")).toBe(31);
 		expect(collections.getDaysInMonth("February")).toBe(28);
